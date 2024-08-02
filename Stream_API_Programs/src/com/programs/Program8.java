@@ -6,6 +6,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 //Find out first non repeated word in given string
+
 public class Program8 {
 
 	public static void main(String[] args) {
