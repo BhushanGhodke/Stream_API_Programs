@@ -10,5 +10,6 @@ public class Program13 {
 		 List<Integer> list = Arrays.asList(4,5,6,7,1,2,3);
 		
 		 list.stream().map(i->i*i*i).filter(result->result>50).forEach(x->System.out.println(x));
+	
+		 }
 	}
-}
