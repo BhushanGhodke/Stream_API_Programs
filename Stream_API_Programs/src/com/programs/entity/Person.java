@@ -1,9 +1,9 @@
-package com.programs.functions.java8;
+package com.programs.entity;
 
 public class Person {
 
-	String name;
-	int age;
+	public String name;
+	public int age;
 
 	public Person(String name, int age) {
 

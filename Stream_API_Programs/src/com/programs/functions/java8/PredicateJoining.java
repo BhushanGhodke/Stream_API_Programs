@@ -2,6 +2,8 @@ package com.programs.functions.java8;
 
 import java.util.function.Predicate;
 
+import com.programs.entity.Person;
+
 //To combine multiple predicate we use predicate joining
 // 1) test == abstract method
 // 2) negate 3) and  4) or  these four method available
