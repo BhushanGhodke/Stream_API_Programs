@@ -9,6 +9,7 @@ public final class Immutable_Class {
 	
 	public Immutable_Class(String adharNo) {
 		this.adharNo=adharNo;
+	
 	}
 	
 	public String getAdharNo() {
