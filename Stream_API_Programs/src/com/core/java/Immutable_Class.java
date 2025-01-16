@@ -19,7 +19,7 @@ public final class Immutable_Class {
 	
 	public static void main(String[] args) {
 		
-		Immutable_Class im= new Immutable_Class("5673 8788 9889");
+		Immutable_Class im= new Immutable_Class("8888 8888 2525");
 		
 	    String adhar = im.getAdharNo();
 	    
